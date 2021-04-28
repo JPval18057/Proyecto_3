@@ -12,7 +12,7 @@
  * Un menú para seleccionar diferentes personajes (colores) para la pelota, jugador 1 y jugador 2. Además
  * Muestra animaciones para el ganador junto con una canción elegida al azar. Al inicio de cada partida también
  * reproduce una canción elegida al azar. Permite guardar las partidas en una memoria SD la cual cuenta con bastante
- * 
+ * espacio
   */
 //***************************************************************************************************************************************
 //***************************************************************************************************************************************
